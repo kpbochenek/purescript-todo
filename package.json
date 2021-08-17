@@ -1,0 +1,17 @@
+{
+  "name": "purescript-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx parcel index.html",
+    "specular": "npx parcel index_todo.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
